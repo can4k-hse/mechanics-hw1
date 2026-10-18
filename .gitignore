@@ -1,0 +1,26 @@
+# Generated Unreal Engine and IDE files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.slnx
+*.pdb
+*.obj
+*.log
+UpgradeLog*.htm
+Backup/
+.env
+.env.*
+# Local Visual Studio integration is installed separately, not part of the homework.
+Plugins/VisualStudioTools/
